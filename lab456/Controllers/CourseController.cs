@@ -40,6 +40,6 @@ namespace lab456.Controllers
             _dbContext.Courses.Add(course);
             _dbContext.SaveChanges();
         }
-
+        
     }
-}
+} g
